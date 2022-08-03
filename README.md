@@ -1,4 +1,4 @@
-# avr-uno-bare-blink
+# AVR - Arduino-Unp: Simple LED blink in baremetal programming
 This is a simple code that makes use of registers. It's my first code diving into bare metal programming.
 The Makefile is a personal creation of mine through trial and error and reviewing C-language compilation
 an linking process.
