@@ -14,6 +14,7 @@ loader still exists and the board is still read and can be programmed with the A
        and upload through the usual method with the upload button. Make sure the functions
        setup() and loop() are removed because instead of using those, this one uses a standard
        C-language starting content with the main() and stuff.
+       
 ### B. Command line
    1. Make sure you have AVR-GCC toolchain installed, this include GNU-Make and AVRDude.
    2. The only files you are going to need for this method are "main.c" and "Makefile"
@@ -21,5 +22,5 @@ loader still exists and the board is still read and can be programmed with the A
       have both of those files in.
    4. Type "make" as a command without the quotes.
    5. Makefile automates the process.
-###
+
 For an in-depth explanation of why I had those options/commands included in my Makefile, I'll be doing one in the future.
