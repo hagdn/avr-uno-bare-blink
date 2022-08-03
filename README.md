@@ -21,5 +21,5 @@ loader still exists and the board is still read and can be programmed with the A
       have both of those files in.
    4. Type "make" as a command without the quotes.
    5. Makefile automates the process.
-   
+###
 For an in-depth explanation of why I had those options/commands included in my Makefile, I'll be doing one in the future.
